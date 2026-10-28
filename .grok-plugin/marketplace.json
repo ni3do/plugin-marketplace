@@ -760,7 +760,7 @@
         "url": "https://github.com/ni3do/artifact-publisher-cursor-plugin.git",
         "sha": "9b5bdd46294ad6bffa4278d23768f8cb06ca1a46"
       },
-      "homepage": "https://artifactpublisher.com/",
+      "homepage": "https://artifactpublisher.com/?ref=dir",
       "keywords": [
         "mcp",
         "html",
